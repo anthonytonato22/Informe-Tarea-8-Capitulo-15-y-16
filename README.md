@@ -247,6 +247,7 @@ R=> I, VR y VL, son ondas de forma sinusoidal.
 ![image](https://user-images.githubusercontent.com/105689577/186573845-7d126068-4e7c-448d-9dd8-32d27e061642.png)
 
 # VIDEO
+https://youtu.be/RAy9yXxhL6s
 
 # CONCLUSIONES
 
